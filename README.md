@@ -91,12 +91,8 @@ O projeto fornece uma base sólida de entendimento sobre os motivos do churn e o
 
 ## 👤 Autor
 
-Desenvolvido por Müller Pereira  
-📧 Email: mullerpereira94@gmail.com  
-📎 GitHub: [github.com/muller-pereira](https://github.com/muller-pereira)
+Desenvolvido por Ubirajara Castro 
+📧 Email: ubirajaraccastro@gmail.com  
+📎 Rede: [https://www.linkedin.com/in/ubirajara-rodrigo-m-c-de-castro-b1903b300/)
 
----
 
-## 📝 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
